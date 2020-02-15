@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1486274766 source:f:\opengl\miniproject\house.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1543417486 source:c:\users\user\desktop\project5\miniproject\house.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
+1543859998 source:f:\diu\semester\11th (slide)\class\cg lab\cg project\project5\miniproject\house.c
+	<windows.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+
